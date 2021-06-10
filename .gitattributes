@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
 *ipynb linguist-detectable=false
-*shell linguist-detectable=false
 *.py linguist-detectable=true
-
+*.cpp linguist-detectable=false
+*.html linguist-detectable=false
